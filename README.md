@@ -1,3 +1,8 @@
+
+# Max React Course Demo app 1
+
+## my practice app from taking the course [udemy react](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
